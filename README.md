@@ -4,8 +4,7 @@ Android RoundedImageView widget
 > RoundedImageView未上传到Maven仓库,需要使用请clone项目
 
 #### 示例
-![image](https://github.com/xiexiang89/RoundedImageView/blob/master/screenshots/screenshots1.png?raw=true)
-![image](https://github.com/xiexiang89/RoundedImageView/blob/master/screenshots/screenshots2.jpg?raw=true)
+![image](https://github.com/xiexiang89/RoundedImageView/blob/master/screenshots/screenshots1.png?raw=true=200*300)
 
 #### XML属性
 
