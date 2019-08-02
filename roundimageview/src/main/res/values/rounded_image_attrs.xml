@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RoundedImageView">
+        <attr name="supportRounded" format="boolean|reference"/>
+        <attr name="borderColor" format="reference|color"/>
+        <attr name="borderSize" format="reference|dimension"/>
+        <attr name="borderOverlay" format="reference|boolean"/>
+        <attr name="isOval" format="boolean|reference"/>
+        <attr name="roundRadius" format="dimension|reference"/>
+        <attr name="roundTopLeftRadius" format="dimension|reference"/>
+        <attr name="roundTopRightRadius" format="dimension|reference"/>
+        <attr name="roundBottomLeftRadius" format="dimension|reference"/>
+        <attr name="roundBottomRightRadius" format="dimension|reference"/>
+        <attr name="maskColor" format="color|reference"/>
+    </declare-styleable>
+</resources>
